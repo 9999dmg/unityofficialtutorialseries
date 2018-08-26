@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 310629fc2b894464493a2f50cfcfbf52
+  productGUID: ed5b34f833f2c41d784910b4a1a688e5
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Unity Official Tutorials
+  productName: Official Unity Tutorials
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -663,8 +663,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 8b77e031-9dd1-4320-9ac0-e472af6e48bf
-  projectName: Unity Official Tutorials
+  cloudProjectId: f35189f8-9263-48f5-b69c-8139d448921d
+  projectName: Official Unity Tutorials
   organizationId: krisimpossible
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
